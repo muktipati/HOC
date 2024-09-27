@@ -11,3 +11,7 @@ here i have created withuser is HOC component where i am storing userdata (you c
 
 now I am displaying the data in listuser and usertable 
 
+
+EXAMPLE FOR HOC 
+
+https://stackblitz.com/edit/react-dpuwty?file=src%2FApp.js,src%2FwithUserdata.js,src%2Fuser.js
